@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Bound Handling Techniques in PSO" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Bound Handling Techniques in PSO" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Bound Handling Techniques in PSO" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="PSO Main.cpp" />
+		<Unit filename="Particle.cpp" />
+		<Unit filename="Particle.h" />
+		<Unit filename="Society.cpp" />
+		<Unit filename="Society.h" />
+		<Unit filename="cec2005_benchmarks.cpp" />
+		<Unit filename="cec2005_benchmarks.h" />
+		<Unit filename="data_analysis.cpp" />
+		<Unit filename="data_analysis.h" />
+		<Unit filename="rand.cpp" />
+		<Unit filename="rand.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

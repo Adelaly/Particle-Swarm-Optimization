@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1365755348 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\pso bht.cpp
+	"Particle.h"
+	"Society.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"cec2005_benchmarks.h"
+	"rand.h"
+
+1366376389 e:\coding\bound handling techniques in pso\bound handling techniques in pso\particle.h
+	<vector>
+	<utility>
+
+1363950915 e:\coding\bound handling techniques in pso\bound handling techniques in pso\random_num_creator.h
+	<ctime>
+	<cstdlib>
+
+1365756931 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\particle.cpp
+	"Particle.h"
+	<iostream>
+	<vector>
+	<utility>
+	<cstdlib>
+
+1366961326 e:\coding\bound handling techniques in pso\bound handling techniques in pso\society.h
+	<vector>
+	<string>
+	"Particle.h"
+
+1366966179 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\society.cpp
+	"Society.h"
+	"cec2005_benchmarks.h"
+	"rand.h"
+	"Particle.h"
+	<iostream>
+	<vector>
+	<utility>
+	<cstdlib>
+	<cmath>
+	<sstream>
+	<string>
+	<limits>
+	<fstream>
+	<iomanip>
+
+1111043714 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\auxiliary.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1365642753 e:\coding\bound handling techniques in pso\bound handling techniques in pso\global.h
+
+1365607072 e:\coding\bound handling techniques in pso\bound handling techniques in pso\sub.h
+
+1366374139 e:\coding\bound handling techniques in pso\bound handling techniques in pso\rand.h
+
+1111041444 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\def1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1111040992 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\def2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1111040992 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\def3.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1111043060 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\def4.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1365509412 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\main.c
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1111041172 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\rand.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"global.h"
+	"rand.h"
+
+1365509975 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\auxiliary.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1365512535 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\def1.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1365512559 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\def2.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1365510254 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\def3.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1365510346 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\def4.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1366374139 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\rand.cpp
+	"rand.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1365640902 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\global.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	"global.h"
+	"rand.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"global.h"
+	"sub.h"
+	"rand.h"
+
+1365581233 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\cec2005\rand.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"global.h"
+	"rand.h"
+
+1365642753 e:\coding\bound handling techniques in pso\bound handling techniques in pso\cec2005\global.h
+
+1365583942 e:\coding\bound handling techniques in pso\bound handling techniques in pso\cec2005\rand.h
+
+1365643088 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\cec2005\global.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	"global.h"
+	"rand.h"
+
+1365643761 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\cec2005\cec2005_benchmarks.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	"cec2005_benchmarks.h"
+	"rand.h"
+
+1365643761 e:\coding\bound handling techniques in pso\bound handling techniques in pso\cec2005\cec2005_benchmarks.h
+
+1367411269 e:\coding\bound handling techniques in pso\bound handling techniques in pso\cec2005_benchmarks.h
+
+1366374139 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\cec2005_benchmarks.cpp
+	"cec2005_benchmarks.h"
+	"rand.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1366981105 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\pso main.cpp
+	"Particle.h"
+	"Society.h"
+	"cec2005_benchmarks.h"
+	"rand.h"
+	"data_analysis.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1366981105 e:\coding\bound handling techniques in pso\bound handling techniques in pso\data_analysis.h
+	<string>
+
+1366981693 source:e:\coding\bound handling techniques in pso\bound handling techniques in pso\data_analysis.cpp
+	"data_analysis.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<algorithm>
+	<vector>
+
